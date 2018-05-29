@@ -30,4 +30,6 @@
         "matthiasnoback/symfony-dependency-injection-test": "^3.0",
         "liip/rmt": "^1.2"
     }
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
